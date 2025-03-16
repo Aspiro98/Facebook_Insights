@@ -1,7 +1,7 @@
 # Likes & Reach: Decoding Facebook User Engagement
 
 ## Overview
-This project analyzes Facebook user engagement using a dataset of 99,003 users, focusing on `likes_received` as a proxy for reach. It includes data cleaning, exploratory visualizations, and predictive modeling with Random Forest regression.
+This project analyzes Facebook user engagement using a dataset of 99,003 users, focusing on `likes_received`. It includes data cleaning, exploratory visualizations, and predictive modeling with Random Forest regression.
 
 ## Visualizations
 ![Bar Chart: Month of Birth](images/bar_month_birth.png)
