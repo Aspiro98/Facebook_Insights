@@ -9,7 +9,7 @@ This project analyzes Facebook user engagement using a dataset of 99,003 users, 
 ![Bar Chart: Gender](images/bar_gender.png)
 ![Pie Chart: Mobile vs. Web](images/pie_mobile_web.png)
 ![Scatter Plot: Likes vs. Friends](images/scatter_likes_friends.png)
-![Actual vs. Predicted](images/actual_vs_predicted.png)
+![Actual vs. Predicted](images/act_vs_pre.png)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/facebook-engagement.git`
